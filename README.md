@@ -510,4 +510,12 @@ The **Employee Management System** is a simple practical project that demonstrat
 
 By using **Person → Employee → Manager** inheritance, the project shows how classes can be connected and reused while keeping the code organized and easy to understand.
 
+## ⭐ Video Demo
+
+
+
+https://github.com/user-attachments/assets/cf7b5e0c-e0c5-4239-8594-ec72202e424d
+
+
+
 > 🐍 **Built with Python | Focused on Object-Oriented Programming**
